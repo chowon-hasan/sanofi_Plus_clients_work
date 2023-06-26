@@ -1,2 +1,2 @@
-- Live link
-- https://sanofi-chowon-hasan.netlify.app/
+- Live link - https://sanofi-chowon-hasan.netlify.app/
+- Designed By - Chowon Hasan
